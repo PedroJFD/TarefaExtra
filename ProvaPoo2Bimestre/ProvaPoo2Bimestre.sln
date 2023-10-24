@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaPoo2Bimestre", "ProvaPoo2Bimestre\ProvaPoo2Bimestre.csproj", "{229B518D-4694-4537-8CC9-9CE28A1E4BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229B518D-4694-4537-8CC9-9CE28A1E4BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229B518D-4694-4537-8CC9-9CE28A1E4BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229B518D-4694-4537-8CC9-9CE28A1E4BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229B518D-4694-4537-8CC9-9CE28A1E4BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFCA4F9-CDDB-46CB-B3AE-10D16316E00C}
+	EndGlobalSection
+EndGlobal
